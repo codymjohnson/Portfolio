@@ -1,0 +1,23 @@
+body {
+    box-sizing: border-box;
+    background-image: url('../assets/ben-dutton-insv5BSTqv0-unsplash.jpg');
+    /* background-size: contain; */
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
+}
+.jumbotron {
+    background-color: slategray;
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: bold;
+    color: white;
+    padding-left: 30px;
+    
+    
+}
+.lead {
+   text-align: center;
+}
+.links {
+text-align: center;
+}

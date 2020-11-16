@@ -11,13 +11,29 @@ body {
     font-family: 'Josefin Sans', sans-serif;
     font-weight: bold;
     color: white;
-    padding-left: 30px;
     
     
+   
+}
+
+.links {
+float: right;
+background-color: orange;
 }
 .lead {
-   text-align: center;
+    text-align: center;
 }
-.links {
-text-align: center;
+
+.col-sm-4 {
+    background-color: black;
+    font-weight: bold;
+    color: white;
+    padding: 20px;
+    
+    opacity: 0.7;
+    
+}
+
+main {
+
 }
